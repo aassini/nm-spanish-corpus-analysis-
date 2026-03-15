@@ -1,8 +1,7 @@
-# nm-spanish-corpus-analysis-
-A corpus analysis, using Python, of the New Mexico and Colorado Spanish Survey (NMCOSS) for sociolinguistic research
+# Corpus Analysis of NMCOSS
 
 ## Overview
-
+An exploratory corpus analysis, using Python, of the New Mexico and Colorado Spanish Survey (NMCOSS) for sociolinguistic research, focusing on terms for family members in English.
 
 ## Research Questions
 
@@ -37,7 +36,8 @@ A corpus analysis, using Python, of the New Mexico and Colorado Spanish Survey (
 
 
 ## Tools
-
+- Python
 
 ## Data
+- NMCOSS: not available due to data privacy and ownership rights
 
